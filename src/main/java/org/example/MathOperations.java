@@ -1,4 +1,4 @@
-package com.homework;
+package org.example;
 
 public class MathOperations {
 
